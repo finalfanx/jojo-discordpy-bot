@@ -36,3 +36,8 @@ https://www.youtube.com/watch?v=_0LXIvLDhBM
 ~setrole - поставить нужные для бота роли (для администратора)
 
 ~removerole - удалить роли бота
+
+
+Всего доброго.
+
+![Alt text](https://cdn.discordapp.com/avatars/473401243079802880/4bca45e4a69d350e8d019b6dcdadec43?size=2048 "")
